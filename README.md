@@ -1,6 +1,6 @@
-# ENTSO-e transparency platform API
-This is a simmple example on how to use the ENTSO-E transparency platform for scraping data.
+This is a script created for data gathering compatible with the TOPS script created in my master's thesis. This script in based on the example provided by Sigurd Hofsmo Jakobsen in Gitlab (https://gitlab.sintef.no/power-system-asset-management/opne-kodesnuttar/entso-e-transparency-platform-api).
 
+From original readme file:
 ## Getting access to the platform
 To get access to the platform an API-key is needed. It can easily be obtained by following this guide https://amsleser.no/blog/post/21-obtaining-api-token-from-entso-e .
 
