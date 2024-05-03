@@ -1,0 +1,20 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Sigurd Hofsmo Jakobsen", email = "sigurd.jakobsen@sintef.no"},
+]
+dependencies = [
+    "entsoe-py>=0.5.9",
+    "jupyterlab>=4.0.1",
+    "matplotlib>=3.7.1",
+    "jupytext>=1.14.6",
+    "python-dotenv>=1.0.0",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+[tool.pdm.scripts]
+lab = ".venv/bin/jupyter-lab"
